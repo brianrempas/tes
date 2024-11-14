@@ -23,6 +23,8 @@
 				  <button class="dropbtn"><i class="fa fa-bars"></i></button>
 				  <div class="dropdown-content">
 				  <a href="index.php">Home</a>
+				  <a href="sites.php">Sites</a>
+				  <a href="aboutUs.php">About</a>
 				  </div>
 				</div>
 			</div>
